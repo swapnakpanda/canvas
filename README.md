@@ -57,7 +57,7 @@ function designCanvas(ctx) {
 import { width, height, designCanvas } from "<projectdirectory>/<JSFile>";
 ```
 
-6. If the web server is not yet started, follow the [Quick Start](https://www.notion.so/README-942bf58724c841a8be2c56f623cb9183?pvs=21) section.
+6. If the web server is not yet started, follow the [Quick Start](https://github.com/swapnakpanda/canvas/#quick-start) section.
 
 ## Adding a new font
 
